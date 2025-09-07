@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Rule Growth PySpark
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: John
+    family-names: Powers
+    affiliation: University of North Carolina at Chapel Hill
+    orcid: 'https://orcid.org/0000-0002-1471-6259'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17074200
+repository-code: 'https://github.com/NCTraCSIDSci/rule_growth_pyspark'
+license: GPL-3.0
