@@ -14,3 +14,6 @@ Upon initially implementing the algorithm in standard Python, performance did no
 This code was developed by John P. Powers as a PySpark implementation of the RuleGrowth algorithm for sequential rule mining (https://www.philippe-fournier-viger.com/spmf/RuleGrowth.php). The original algorithm and code were developed by Philippe Fournier-Viger and colleagues (see reference below). The original code was developed in Java and is available in the SPMF open-source data mining library distributed under the terms of the GNU General Public License v3.0 (https://www.philippe-fournier-viger.com/spmf/). See code file header for more information. 
 
 Fournier-Viger, P., Nkambou, R. & Tseng, V. S. (2011). RuleGrowth: Mining Sequential Rules Common to Several Sequences by Pattern-Growth. Proceedings of the 26th Symposium on Applied Computing (ACM SAC 2011). ACM Press, pp. 954-959.
+
+## Citing This Repository  
+If you use this software in your work, please cite it using the CITATION.cff file or by clicking "Cite this repository" on the right. 
